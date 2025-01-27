@@ -113,7 +113,8 @@ main{
     justify-content: space-around;
 }
 .text-center{
-    text-align: left; 
+    text-align: left;
+    text-align: center; 
 }
 /* skills section deign */
 .skills-container{
@@ -137,4 +138,10 @@ main{
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 20px;
+}
+.resume hr{
+    margin: 30px 5px;
+}
+.resume-download-cv{
+    margin-top: 50px;
 }
